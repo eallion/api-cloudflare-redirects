@@ -1,9 +1,10 @@
-/bing* https://api-interface.eallion.com/img/bing:splat 301
+/bing*https://api-interface.eallion.com/img/bing:splat 301
 /site* https://api-interface.eallion.com/site:splat 301
-/og* https://og.eallion.com/api/og:splat 301
+/og*https://og.eallion.com/api/og:splat 301
 /mastodon* https://e5n.cc/api/v1/accounts/111136231674527355/statuses:splat 301
-/memos* https://memos.eallion.com/api/v1/memos:splat 301
+/memos*https://memos.eallion.com/api/v1/memos:splat 301
 /jinrishici* https://v2.jinrishici.com:splat 301
-/favicon* https://favicon.png.pub/v1:splat 301
+/favicon*https://favicon.png.pub/v1:splat 301
 /screens* https://s0.wp.com/mshots/v1:splat 301
 /gravatar* https://gravatar.eallion.com/avatar:splat 301
+/ip https://api.eallion.com/ip 301
